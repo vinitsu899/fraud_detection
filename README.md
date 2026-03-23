@@ -136,8 +136,12 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Your Name**:**Vinit Sharma**
 
 * GitHub: https://github.com/vinitsu899
 
+---
+---
+#📎 Repository Link
+#🔗 https://github.com/vinitsu899/fraud_detection
 ---
