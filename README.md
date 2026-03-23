@@ -143,5 +143,6 @@ This project is open-source and available under the MIT License.
 ---
 ---
 #📎 Repository Link
-#🔗 https://github.com/vinitsu899/fraud_detection
+---
+🔗 https://github.com/vinitsu899/fraud_detection
 ---
