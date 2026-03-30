@@ -7,7 +7,7 @@ A machine learning project that detects fraudulent transactions using classifica
 ## 📌 Overview
 
 Fraud detection is a critical problem in finance where the goal is to identify suspicious transactions.
-In this project, a **Logistic Regression model** is built using a structured pipeline to efficiently preprocess and classify transactions as **fraudulent or non-fraudulent**.
+In this project, a **Logistic Regression model** is built using a structured pipeline to efficiently preprocess and classify transactions as *fraudulent or non-fraudulent**.
 
 ---
 
